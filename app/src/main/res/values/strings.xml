@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VisaDataChecker</string>
+    <string name="erevan">Erevan</string>
+    <string name="sofia1">Sofia1</string>
+    <string name="sofia2">Sofia2</string>
+    <string name="sofia3">София</string>
+    <string name="sofia4">Софія</string>
+
+    <string name="status_error">Error!</string>
+    <string name="status_get_capcha">Getting CAPCHA</string>
+    <string name="status_got_capcha">Got CAPCHA</string>
+    <string name="status_analyze_capcha">Analyze CAPCHA</string>
+    <string name="status_retry_analyze_capcha">Retry Analyze CAPCHA</string>
+    <string name="status_capcha_parsed">CAPCHA parsed: %s</string>
+    <string name="status_failed_parse_capcha">Failed parse CAPCHA</string>
+    <string name="status_get_slots">Getting slots</string>
+    <string name="status_got_slots">Got slots. Count : %s</string>
+
+</resources>
